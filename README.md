@@ -3,10 +3,9 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+🔗 [Mi portafolio en Itch.io](https://cdecejota.itch.io/)  
+🔗 [Mi LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-jara-1a9502282/)  
+🔗 [Mi GitHub](https://github.com/cjgamedev)
 
 ## Sobre mi
 
