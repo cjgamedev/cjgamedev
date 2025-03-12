@@ -3,9 +3,9 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-🔗 [Mi portafolio en Itch.io](https://cdecejota.itch.io/)  
-🔗 [Mi LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-jara-1a9502282/)  
-🔗 [Mi GitHub](https://github.com/cjgamedev)
+[Itch.io](https://cdecejota.itch.io/)  
+[Mi LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-jara-1a9502282/)  
+[Mi GitHub](https://github.com/cjgamedev)
 
 ## Sobre mi
 
