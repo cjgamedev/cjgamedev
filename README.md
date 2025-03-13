@@ -22,7 +22,7 @@
     <h3 align="center">Los Tres Hermanos</h3>
     <div align="center">
       <a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
-        <img src="https://postimg.cc/8sMfpkJ8/997b6989" width="400" alt="Los Tres Hermanos">
+        <img src="https://i.postimg.cc/ryY19Kqp/logo-los-tres-hermanos.png" width="400" alt="Los Tres Hermanos">
       </a>
       <p>
         <a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
