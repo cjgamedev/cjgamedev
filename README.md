@@ -18,21 +18,20 @@
 ## Proyectos 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Los Tres Hermanos</h3>
-<div align="center">
-<a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
-    <img src="https://postimg.cc/8sMfpkJ8/997b6989" width="400" alt="Los Tres Hermanos">
-</a>
-<p>
-<a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
-    <img src="https://img.shields.io/badge/Jugar-aaa9a9?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, basada en los hechos ocurridos durante el golpe militar de Chile de 1973. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien lucha por mantener su vida cotidiana en medio de la dictadura. A medida que avanza, Álvaro se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.</p>
-</div>
-                                                                                      
-</td>
+  <td width="50%">
+    <h3 align="center">Los Tres Hermanos</h3>
+    <div align="center">
+      <a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
+        <img src="https://postimg.cc/8sMfpkJ8/997b6989" width="400" alt="Los Tres Hermanos">
+      </a>
+      <p>
+        <a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
+          <img src="https://img.shields.io/badge/Jugar-9E9E9E?style=for-the-badge&color=9E9E9E" alt="Jugar">
+        </a>
+      </p>
+      <p>Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, basada en los hechos ocurridos durante el golpe militar de Chile de 1973. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien lucha por mantener su vida cotidiana en medio de la dictadura. A medida que avanza, Álvaro se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.</p>
+    </div>
+  </td>
 
 <td width="50%">
                <br>
