@@ -15,22 +15,21 @@
 - 🖥️ Programación en C# y trabajo con sistemas como NavMesh, Animator y gestión de datos en Unity.
 <br>
 
-## Proyectos *bombitas*
+## Proyectos 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Los Tres Hermanos</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
+    <img src="logo los tres hermanos.png" width="400" alt="Los Tres Hermanos">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<p>
+<a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
+    <img src="https://img.shields.io/badge/Jugar-yellow?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, basada en los hechos ocurridos durante el golpe militar de Chile de 1973. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien lucha por mantener su vida cotidiana en medio de la dictadura. A medida que avanza, Álvaro se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.</p>
 </div>
                                                                                       
 </td>
