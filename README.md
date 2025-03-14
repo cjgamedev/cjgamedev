@@ -69,10 +69,9 @@
       <p>Timeless es un juego de aventura en Top Down Pixel Art 2D, desarrollado para la Woman Game Jam 2024. En este juego, el jugador toma el rol de un detective de renombre atrapado en un sueño cíclico. Debe resolver un caso dentro de un tiempo determinado antes de que el sueño se repita. El proyecto fue creado por el equipo EverWake, destacando el compromiso de sus miembros.</p>
        </div>
   </td>
-</tr>
-<tr>
   
  <td width="50%">
+    <br>
     <h3 align="center">31 Cornetes</h3>
     <div align="center">
       <a href="https://everwake-studio.itch.io/31-cornetes" target="_blank">
