@@ -34,17 +34,20 @@
   </td>
 
 
- <td width="50%">
+<td width="50%">
   <br>
   <h3 align="center">ParanoiC</h3>
   <div align="center">
     <a href="https://cdecejota.itch.io/paranoic" target="_blank">
-      <img src="https://postimg.cc/f3fjKkrm/20c6f845" width="400" alt="ParanoiC">
+      <img src="https://i.postimg.cc/f3fjKkrm/20c6f845.png" width="400" alt="ParanoiC">
     </a>
-    <br>
     <p>
-      <a href="#" style="background-color:#735132; padding:10px 20px; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">CÓDIGO</a>
-      <a href="https://cdecejota.itch.io/paranoic" target="_blank" style="background-color:#4f391b; padding:10px 20px; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">JUGAR</a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-735132?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://cdecejota.itch.io/paranoic" target="_blank">
+        <img src="https://img.shields.io/badge/JUGAR-4f391b?style=for-the-badge&color=4f391b">
+      </a>
     </p>
     <p>Juego de terror en primera persona desarrollado como proyecto universitario en equipo. El jugador se pone en la piel de un protagonista que sufre paranoia y privación de sueño, con el objetivo de completar una máquina del tiempo en su computadora mediante un sistema de mecanografía. A lo largo del juego, el jugador debe resolver eventos que interrumpen su trabajo y asegurarse de que nadie lo moleste.</p>
   </div>
