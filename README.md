@@ -50,6 +50,7 @@
   </td>
 </tr>
 <tr>
+  
   <td width="50%">
     <br>
     <h3 align="center">Timeless</h3>
@@ -70,6 +71,7 @@
   </td>
 </tr>
 <tr>
+  
  <td width="50%">
     <h3 align="center">31 Cornetes</h3>
     <div align="center">
