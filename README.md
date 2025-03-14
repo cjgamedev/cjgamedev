@@ -38,7 +38,7 @@
   <br>
   <h3 align="center">ParanoiC</h3>
   <div align="center">
-    <a href="https://cdecejota.itch.io/paranoic" target="_blank">
+    <a href="https://everwake-studio.itch.io/paranoic" target="_blank">
       <img src="https://i.postimg.cc/f3fjKkrm/20c6f845.png" width="400" alt="ParanoiC">
     </a>
     <p>
