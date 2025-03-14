@@ -65,7 +65,7 @@
           <img src="https://img.shields.io/badge/C%C3%93DIGO-6b72b5?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="https://everwake-studio.itch.io/timeless" target="_blank">
-          <img src="https://img.shields.io/badge/JUGAR-000734?style=for-the-badge&color=131729">
+          <img src="https://img.shields.io/badge/JUGAR-4a507e?style=for-the-badge&color=131729">
         </a>
       </p>
       <p>Timeless es un juego de aventura en Top Down Pixel Art 2D, desarrollado para la Woman Game Jam 2024. En este juego, el jugador toma el rol de un detective de renombre atrapado en un sueño cíclico. Debe resolver un caso dentro de un tiempo determinado antes de que el sueño se repita. El proyecto fue creado por el equipo EverWake, destacando el compromiso de sus miembros.</p>
