@@ -45,7 +45,7 @@
       <a href="#">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-735132?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://cdecejota.itch.io/paranoic" target="_blank">
+      <a href="https://everwake-studio.itch.io/paranoic" target="_blank">
         <img src="https://img.shields.io/badge/JUGAR-4f391b?style=for-the-badge&color=4f391b">
       </a>
     </p>
