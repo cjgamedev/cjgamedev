@@ -7,7 +7,7 @@
 [Mi LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-jara-1a9502282/)  
 [Mi GitHub](https://github.com/cjgamedev)
 
-## Sobre mi
+## Sobre mí
 
 - 🎮 Desarrollador de videojuegos en Unity.
 - 🎯 Apasionado por la narrativa interactiva y el diseño de mecánicas de juego.
@@ -49,6 +49,26 @@
         </a>
       </p>
       <p>Juego de terror en primera persona desarrollado como proyecto universitario en equipo. El jugador se pone en la piel de un protagonista que sufre paranoia y privación de sueño, con el objetivo de completar una máquina del tiempo en su computadora mediante un sistema de mecanografía. A lo largo del juego, el jugador debe resolver eventos que interrumpen su trabajo y asegurarse de que nadie lo moleste.</p>
+   </div>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <br>
+    <h3 align="center">Timeless</h3>
+    <div align="center">
+      <a href="https://everwake-studio.itch.io/timeless" target="_blank">
+        <img src="https://i.postimg.cc/fR0SKdWx/timeless-logo.png" width="400" alt="Timeless">
+      </a>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-1a2033?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://everwake-studio.itch.io/timeless" target="_blank">
+          <img src="https://img.shields.io/badge/JUGAR-131729?style=for-the-badge&color=131729">
+        </a>
+      </p>
+      <p>Timeless es un juego de aventura en Top Down Pixel Art 2D, desarrollado para la Woman Game Jam 2024. En este juego, el jugador toma el rol de un detective de renombre atrapado en un sueño cíclico. Debe resolver un caso dentro de un tiempo determinado antes de que el sueño se repita. El proyecto fue creado por el equipo EverWake, destacando el compromiso de sus miembros.</p>
     </div>
   </td>
 </tr>
