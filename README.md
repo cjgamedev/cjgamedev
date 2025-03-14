@@ -66,6 +66,26 @@
         </a>
       </p>
       <p>Timeless es un juego de aventura en Top Down Pixel Art 2D, desarrollado para la Woman Game Jam 2024. En este juego, el jugador toma el rol de un detective de renombre atrapado en un sueño cíclico. Debe resolver un caso dentro de un tiempo determinado antes de que el sueño se repita. El proyecto fue creado por el equipo EverWake, destacando el compromiso de sus miembros.</p>
+       </div>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <br>
+    <h3 align="center">31 Cornetes</h3>
+    <div align="center">
+      <a href="https://everwake-studio.itch.io/31-cornetes" target="_blank">
+        <img src="https://i.postimg.cc/9FNZ6FZ1/31-cornetes-logo.png" width="400" alt="31 Cornetes">
+      </a>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-e00003?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+        <a href="https://everwake-studio.itch.io/31-cornetes" target="_blank">
+          <img src="https://img.shields.io/badge/JUGAR-d90003?style=for-the-badge&color=d90003">
+        </a>
+      </p>
+      <p>Fan game basado en 31 Minutos. Se trata de un juego de boxeo en 2D con estilo pixel art, donde el jugador puede elegir entre dos cartas aleatorias antes de cada combate, ajustando su estrategia hacia un enfoque más ágil o agresivo. Desarrollado como un proyecto universitario en equipo, el objetivo es superar el enfrentamiento y alcanzar el final del juego.</p>
     </div>
   </td>
 </tr>
