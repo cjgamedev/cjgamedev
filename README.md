@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy César Jara 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+
 
 
 ## Sobre mi
