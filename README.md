@@ -24,10 +24,7 @@
       <p>
         <a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
           <img src="https://img.shields.io/badge/Jugar-9E9E9E?style=for-the-badge&color=9E9E9E" alt="Jugar">
-          </a>
-        <a href="https://github.com/Hallulla6802/Pressure-v01" target="_blank">
-          <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github" alt="Código">
-        </a>
+           </a>
       </p>
       <p>Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, basada en los hechos ocurridos durante el golpe militar de Chile de 1973. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien lucha por mantener su vida cotidiana en medio de la dictadura. A medida que avanza, Álvaro se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.</p>
     </div>
@@ -41,7 +38,7 @@
         <img src="https://i.postimg.cc/f3fjKkrm/20c6f845.png" width="400" alt="ParanoiC">
       </a>
       <p>
-        <a href="#">
+        <a href="https://github.com/Hallulla6802/Pressure-v01">
           <img src="https://img.shields.io/badge/C%C3%93DIGO-735132?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="https://everwake-studio.itch.io/paranoic" target="_blank">
