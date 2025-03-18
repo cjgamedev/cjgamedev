@@ -78,7 +78,7 @@
         <img src="https://i.postimg.cc/VLYBnVWQ/31-cornetes-logo.png" width="400" alt="31 Cornetes">
       </a>
       <p>
-        <a href="#">
+        <a href="https://github.com/Hallulla6802/31_Cornetes">
           <img src="https://img.shields.io/badge/C%C3%93DIGO-e00003?style=for-the-badge&logo=github&logoColor=black">
         </a>
         <a href="https://everwake-studio.itch.io/31-cornetes" target="_blank">
