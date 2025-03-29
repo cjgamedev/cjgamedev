@@ -26,7 +26,7 @@
           <img src="https://img.shields.io/badge/Jugar-9E9E9E?style=for-the-badge&color=9E9E9E" alt="Jugar">
            </a>
       </p>
-      <p>Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, basada en los hechos ocurridos durante el golpe militar de Chile de 1973. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien lucha por mantener su vida cotidiana en medio de la dictadura. A medida que avanza, Álvaro se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.</p>
+      <p>Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, sobre la Historia de Chile. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.</p>
     </div>
   </td>
 
