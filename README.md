@@ -89,6 +89,26 @@
     </div>
   </td>
 </tr>
+
+<tr>
+  <td width="50%" colspan="2">
+    <br>
+    <h3 align="center">Devuelvan el moái 🗿</h3>
+    <div align="center">
+      <a href="https://iccejack.itch.io/devuelvan-el-moai" target="_blank">
+        <img src="https://i.postimg.cc/ryY19Kqp/logo-los-tres-hermanos.png" width="400" alt="Devuelvan el moái">
+      </a>
+      <p>
+        <a href="https://iccejack.itch.io/devuelvan-el-moai" target="_blank">
+          <img src="https://img.shields.io/badge/JUGAR-FF7F00?style=for-the-badge&color=FF7F00">
+        </a>
+      </p>
+      <p>
+        Juego <i>beat ‘em up</i> desarrollado para la Abstract Chile Game Jam, en el que encarnas a un pudú con la cómica misión de recuperar un moái del Museo Británico. Te enfrentarás a pintorescos enemigos y viajarás por las carreteras y cielos desde Chile hasta el Reino Unido.
+      </p>
+    </div>
+  </td>
+</tr>
 </table>
 <br>
 
