@@ -12,10 +12,9 @@
 
 ## Proyectos
 <table>
-  <!-- Devuelvan el moái 🗿 -->
+  <!-- Devuelvan el moái 🗿 - fila individual -->
   <tr>
-    <td width="50%">
-      <br>
+    <td colspan="2" width="100%">
       <h3 align="center">Devuelvan el moái 🗿</h3>
       <div align="center">
         <a href="https://iccejack.itch.io/devuelvan-el-moai" target="_blank">
@@ -27,16 +26,15 @@
           </a>
         </p>
         <p>
-          Juego <i>beat ‘em up</i> desarrollado para la Abstract Chile Game Jam, en el que encarnas a un pudú con la cómica misión de recuperar un moái del Museo Británico. Te enfrentarás a pintorescos enemigos y viajarás por las carreteras y cielos desde Chile hasta el Reino Unido.
+          Juego <i>beat ‘em up</i> desarrollado para la Abstract Chile Game Jam, en el que encarnas a un pudú con la cómica misión de recuperar un moái del Museo Británico.
         </p>
       </div>
     </td>
   </tr>
 
-  <!-- Los Tres Hermanos -->
+  <!-- Los Tres Hermanos + ParanoiC -->
   <tr>
     <td width="50%">
-      <br>
       <h3 align="center">Los Tres Hermanos</h3>
       <div align="center">
         <a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
@@ -44,20 +42,15 @@
         </a>
         <p>
           <a href="https://cdecejota.itch.io/los-tres-hermanos" target="_blank">
-            <img src="https://img.shields.io/badge/Jugar-9E9E9E?style=for-the-badge&color=9E9E9E" alt="Jugar">
+            <img src="https://img.shields.io/badge/Jugar-9E9E9E?style=for-the-badge&color=9E9E9E">
           </a>
         </p>
         <p>
-          Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, sobre la Historia de Chile. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.
+          Novela visual desarrollada en Ren'Py sobre la Historia de Chile.
         </p>
       </div>
     </td>
-  </tr>
-
-  <!-- ParanoiC -->
-  <tr>
     <td width="50%">
-      <br>
       <h3 align="center">ParanoiC</h3>
       <div align="center">
         <a href="https://everwake-studio.itch.io/paranoic" target="_blank">
@@ -72,16 +65,15 @@
           </a>
         </p>
         <p>
-          Juego de terror en primera persona desarrollado como proyecto universitario en equipo. El jugador se pone en la piel de un protagonista que sufre paranoia y privación de sueño, con el objetivo de completar una máquina del tiempo en su computadora mediante un sistema de mecanografía. A lo largo del juego, el jugador debe resolver eventos que interrumpen su trabajo y asegurarse de que nadie lo moleste.
+          Juego de terror en primera persona sobre paranoia y privación de sueño.
         </p>
       </div>
     </td>
   </tr>
 
-  <!-- Timeless -->
+  <!-- Timeless + 31 Cornetes -->
   <tr>
     <td width="50%">
-      <br>
       <h3 align="center">Timeless</h3>
       <div align="center">
         <a href="https://everwake-studio.itch.io/timeless" target="_blank">
@@ -96,16 +88,11 @@
           </a>
         </p>
         <p>
-          Timeless es un juego de aventura en Top Down Pixel Art 2D, desarrollado para la Woman Game Jam 2024. En este juego, el jugador toma el rol de un detective de renombre atrapado en un sueño cíclico. Debe resolver un caso dentro de un tiempo determinado antes de que el sueño se repita. El proyecto fue creado por el equipo EverWake, destacando el compromiso de sus miembros.
+          Juego de aventura en Pixel Art 2D sobre un detective atrapado en un sueño cíclico.
         </p>
       </div>
     </td>
-  </tr>
-
-  <!-- 31 Cornetes -->
-  <tr>
     <td width="50%">
-      <br>
       <h3 align="center">31 Cornetes</h3>
       <div align="center">
         <a href="https://everwake-studio.itch.io/31-cornetes" target="_blank">
@@ -120,7 +107,7 @@
           </a>
         </p>
         <p>
-          Fan game basado en 31 Minutos. Se trata de un juego de boxeo en 2D con estilo pixel art, donde el jugador puede elegir entre dos cartas aleatorias antes de cada combate, ajustando su estrategia hacia un enfoque más ágil o agresivo. Desarrollado como un proyecto universitario en equipo, el objetivo es superar el enfrentamiento y alcanzar el final del juego.
+          Fan game de boxeo en 2D basado en 31 Minutos.
         </p>
       </div>
     </td>
