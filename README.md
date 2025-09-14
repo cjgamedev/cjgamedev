@@ -18,7 +18,7 @@
       <h3 align="center">Devuelvan el moái 🗿</h3>
       <div align="center">
         <a href="https://iccejack.itch.io/devuelvan-el-moai" target="_blank">
-          <img src="pudu-lloron.png" width="400" alt="Devuelvan el moái">
+          <img src="https://i.postimg.cc/W3FNxy04/pudu-lloron-naranja.png" width="400" alt="Devuelvan el moái">
         </a>
         <p>
           <a href="https://iccejack.itch.io/devuelvan-el-moai" target="_blank">
