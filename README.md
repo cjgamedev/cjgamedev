@@ -26,7 +26,7 @@
           </a>
         </p>
         <p>
-          Juego <i>beat ‘em up</i> desarrollado para la Abstract Chile Game Jam, en el que encarnas a un pudú con la cómica misión de recuperar un moái del Museo Británico.
+          Juego beat ‘em up desarrollado para la Abstract Chile Game Jam, en el que encarnas a un pudú con la cómica misión de recuperar un moái del Museo Británico. Te enfrentarás a pintorescos enemigos y viajarás por las carreteras y cielos desde Chile hasta el Reino Unido.
         </p>
       </div>
     </td>
@@ -65,7 +65,7 @@
           </a>
         </p>
         <p>
-          Juego de terror en primera persona sobre paranoia y privación de sueño.
+          Juego de terror en primera persona desarrollado como proyecto universitario en equipo. El jugador se pone en la piel de un protagonista que sufre paranoia y privación de sueño, con el objetivo de completar una máquina del tiempo en su computadora mediante un sistema de mecanografía. A lo largo del juego, el jugador debe resolver eventos que interrumpen su trabajo y asegurarse de que nadie lo moleste.
         </p>
       </div>
     </td>
@@ -88,7 +88,7 @@
           </a>
         </p>
         <p>
-          Juego de aventura en Pixel Art 2D sobre un detective atrapado en un sueño cíclico.
+          Timeless es un juego de aventura en Top Down Pixel Art 2D, desarrollado para la Woman Game Jam 2024. En este juego, el jugador toma el rol de un detective de renombre atrapado en un sueño cíclico. Debe resolver un caso dentro de un tiempo determinado antes de que el sueño se repita. El proyecto fue creado por el equipo EverWake, destacando el compromiso de sus miembros.
         </p>
       </div>
     </td>
@@ -107,7 +107,7 @@
           </a>
         </p>
         <p>
-          Fan game de boxeo en 2D basado en 31 Minutos.
+          Fan game basado en 31 Minutos. Se trata de un juego de boxeo en 2D con estilo pixel art, donde el jugador puede elegir entre dos cartas aleatorias antes de cada combate, ajustando su estrategia hacia un enfoque más ágil o agresivo. Desarrollado como un proyecto universitario en equipo, el objetivo es superar el enfrentamiento y alcanzar el final del juego.
         </p>
       </div>
     </td>
