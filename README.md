@@ -9,7 +9,7 @@
 - 🎮 Desarrollador de videojuegos en Unity.
 - 🎯 Apasionado por la narrativa interactiva y el diseño de mecánicas de juego.
 - 🎓 Estudiante de Diseño y Desarrollo de Videojuegos.
-- 🖥️ Programación en C# y trabajo con sistemas como NavMesh, Animator y gestión de datos en Unity.
+- 🖥️ Programación en C# y JavaScript.
 <br>
 
 ## Proyectos 
