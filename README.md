@@ -46,7 +46,7 @@
           </a>
         </p>
         <p>
-          Novela visual desarrollada en Ren'Py sobre la Historia de Chile.
+          Como parte de un proyecto personal, Los Tres Hermanos es una novela visual desarrollada en Ren'Py, sobre la Historia de Chile. En este juego, el jugador asume el rol de Álvaro, el hermano del medio de tres hermanos, quien se verá obligado a tomar decisiones cruciales que alterarán el rumbo de la historia.
         </p>
       </div>
     </td>
